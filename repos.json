@@ -1,0 +1,23 @@
+{
+	"default_branch": "develop",
+	"repos": [
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_server_tweet_features.git"
+		},
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_client_features_processing.git"
+		},
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_tools.git"
+		},
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_client_storage_from_twitter.git"
+		},
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_server_storage.git"
+		},
+		{
+			"repository": "git@github.com:yoyonel/pyconfr_2019_grpc_nlp_protos.git"
+		}
+	]
+}
